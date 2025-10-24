@@ -96,7 +96,7 @@ N’hésite pas à ouvrir une issue sur un repo public ou à me contacter via mo
 
 ---
 
-### 📈 Stats (optionnelles)
+### 📈 Stats 
 
 <p>
   <img
