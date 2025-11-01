@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/sanztheo?tab=repositories">Repos</a> ·
+  <a href="https://www.linkedin.com/in/theo-sanz/" target="_blank">Linkedin</a> ·
 </p>
 
 ---
@@ -100,13 +101,13 @@ N’hésite pas à ouvrir une issue sur un repo public ou à me contacter via mo
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Sanzcloud-web&show_icons=true&hide_title=true"
+    src="https://github-readme-stats.vercel.app/api?username=sanztheo&show_icons=true&hide_title=true"
     alt="GitHub Stats"
   />
 </p>
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanzcloud-web&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanztheo&layout=compact"
     alt="Top Languages"
   />
 </p>
