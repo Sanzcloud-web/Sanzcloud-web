@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sanzcloud-web?tab=repositories">Repos</a> ·
+  <a href="https://github.com/sanztheo?tab=repositories">Repos</a> ·
 </p>
 
 ---
