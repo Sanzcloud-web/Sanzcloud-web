@@ -72,7 +72,7 @@ Modèle simple : N tickets = N actions (avec demi-tickets pour micro-modifs).
 
 ### 🧪 Open-Source & Labs
 
-- **[Cloud]([https://github.com/Sanzcloud-web/Cloud](https://github.com/sanztheo/Cloud))** - Un navigateur web moderne pour macOS, inspiré par Arc.  
+- **[Cloud](https://github.com/sanztheo/Cloud)** - Un navigateur web moderne pour macOS, inspiré par Arc.  
 - **[jarvis](https://github.com/Sanzcloud-web/jarvis)** - Scripts & agents d’automations pour dev-workflow.  
 - **[Controler](https://github.com/Sanzcloud-web/Controler)** - Petit utilitaire de contrôle/abstractions (expérimental).
 
